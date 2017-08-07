@@ -1,2 +1,2 @@
-# -Nodejs-express-mongodb-mongoose-
+# Nodejs-express-mongodb-mongoose
 前台实现的功能： 用户注册、登陆、博客文章列表、内容预览和评论功能， 后台实现的功能：注册用户管理、博客分类管理、博客内容以及评论的管理功能。
